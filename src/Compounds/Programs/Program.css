@@ -1,0 +1,75 @@
+.stroke-1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    color: transparent;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color:whitesmoke;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 5.5rem;
+  }
+  .programs span:nth-child(2){
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:50px;
+    color: white;
+    margin-left: 8%;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 1.5px;
+    margin-top: 5%;
+    font-style: italic;
+  }
+.activity{
+    width: 23.5rem;
+    height: 15rem;
+    background-color: gray;
+    margin-left: 7%;
+    margin-top: 8%;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+.activity h2{
+  color:whitesmoke;
+  margin-left: 2.5rem;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.5px;
+  margin-top: -3%;
+}
+.activity p{
+  font-size: small;
+  margin-left: 2.5rem;
+  margin-top: 1.5rem;
+}
+.activity h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: medium;
+  margin-top: 1.5rem;
+  margin-left: 2.5rem;
+}
+.rightArrow{
+  width: 0.8rem;
+  float: right;
+ margin-right:13.5rem;
+ margin-top: -4%;
+}
+.haret-health{
+  height: 25%;
+  width: 3.5rem;
+  padding: 1.4rem;
+}
+.dumbell{
+  height: 25%;
+  width: 3.5rem;
+  padding: 7.7%;
+}
+.activity:hover{
+  background-color: rgb(244, 178, 57);
+ padding: 2%;
+ margin-left: 5%;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0, 2),0 6px 20px 0 rgba(0,0,0, 19);
+}

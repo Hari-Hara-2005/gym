@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.header img{
+    padding: 1rem;
+    padding-top: 0.5%;
+    width: 18rem;
+
+}
+.header-menu{
+    list-style: none;
+    display: flex;
+    color: white;
+    gap: 2rem;
+    justify-content:right;
+    margin-right:5%;
+    margin-top: 2%;
+}
+.header-menu li:hover{
+    color: orange;
+    cursor: pointer;
+}
